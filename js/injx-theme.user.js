@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         injxx themer
+// @name         injxr themer
 // @version      1.6
 // @description  A ss theme made by injxr <3
 // @author       injxr
