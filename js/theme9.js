@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         injx v1.3
+// @name         injx v1.4
 // @version      1.4
 // @description  A ss theme made by injx <3
 // @author       injx
