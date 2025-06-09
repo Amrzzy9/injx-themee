@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         injx v1
-// @version      1.1
+// @name         injx v1.2
+// @version      1.2
 // @description  A ss theme made by injx <3
 // @author       injx
 // @match        https://*.shellshock.io/*
@@ -105,9 +105,9 @@
     }
 		/* root */
 		:root {
-			--ss-lightoverlay: url('https://raw.githubusercontent.com/Amrzzy9/assets/refs/heads/main/night-sky.jpg');
-			--ss-popupbackground: url('https://raw.githubusercontent.com/Amrzzy9/assets/refs/heads/main/night-sky.jpg');
-			--ss-me-player-bg: url('https://raw.githubusercontent.com/Amrzzy9/assets/refs/heads/main/night-sky.jpg');
+			--ss-lightoverlay: url('https://tinyurl.com/3dux2a5z');
+			--ss-popupbackground: url('https://tinyurl.com/3dux2a5z');
+			--ss-me-player-bg: url('https://tinyurl.com/3dux2a5z');
     }
     .text_blue5 {
     color: #ebebeb !important;
