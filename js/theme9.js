@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         injx v1.3
-// @version      1.3
+// @version      1.4
 // @description  A ss theme made by injx <3
 // @author       injx
 // @match        https://*.shellshock.io/*
