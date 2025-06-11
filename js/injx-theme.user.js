@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         injxr themer
-// @version      1.8
+// @version      1.9
 // @description  A ss theme made by injxr <3
 // @author       injxr
 // @match        https://*.shellshock.io/*
@@ -59,5 +59,5 @@
 // @match        https://zygote.cafe/*
 // @updateURL    https://Amrzzy9.github.io/injx-themee/js/injx-theme.meta.js
 // @downloadURL  https://Amrzzy9.github.io/injx-themee/js/injx-theme.user.js
-// @require      https://amrzzy9.github.io/injx-themee/js/theme9.js?v=1.8
+// @require      https://amrzzy9.github.io/injx-themee/js/theme9.js?v=1.9
 // ==/UserScript==
